@@ -1,10 +1,10 @@
  export const Articles=[
     {
         id:1,
-        heading:"Udaipur, Rajasthan - The City of Lakes",
-        image:require("../pics/UDAIPUR.jpg"),
-        descr:"Udaipur (pronunciation (help·info)) (ISO 15919: Udayapura), historically named as Udayapura, is a city and municipal corporation in Udaipur district of the state of Rajasthan, India.[3][4] It is the administrative headquarter of Udaipur district. It is the historic capital of the kingdom of Mewar in the former Rajputana Agency. It was founded in 1559 by Udai Singh II of the Sisodia clan of Rajput,[5] when he shifted his capital from the city of Chittorgarh to Udaipur after Chittorgarh was besieged by Akbar. It remained as the capital city till 1818 when it became a British princely state,[5] and thereafter the Mewar province became a part of Rajasthan when India gained independence in 1947"
-    },
+        heading:"New York,- is the most populous city in the United States   ",
+        image:require("../pics/newyork.jpg"),
+        descr:" New York, often called New York City (NYC),[a] is the most populous city in the United States. With a 2020 population of 8,804,190 distributed over 300.46 square miles (778.2 km2), New York City is also the most densely populated major city in the United States. Located at the southern tip of New York State, the city is based in the Eastern Time Zone and constitutes the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the world by urban landmass.[8] With over 20.1 million people in its metropolitan statistical area and 23.5 million in its combined statistical area as of 2020, New York is one of the world's most populous megacities, and over 58 million people live within 250 miles of the city.[9] New York City is a global cultural, financial, and media center with a significant influence on commerce, health care and life sciences,[10] entertainment, research, technology,[11] education, politics, tourism, dining, art, fashion, and sports. New York is the most photographed city in the world.[12] Home to the headquarters of the United Nations, New York is an important center for international diplomacy,[13][14] an established safe haven for global investors,[15] and is sometimes described as the capital of the world."
+         },
     {
         id:2,
         heading:"New Delhi,NCR-The city of cities",
